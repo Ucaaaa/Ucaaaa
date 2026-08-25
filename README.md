@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Uca 👋
 
-<!--
-**Ucaaaa/Ucaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student at Universitas Negeri Yogyakarta
+📊 Currently exploring Data Analytics & Business Intelligence
+💻 Interested in turning data into meaningful insights and useful products
 
-Here are some ideas to get you started:
+### What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 Currently working on personal projects and building my data portfolio
+
+
+### Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/fulca-liya-furaidah) · [Instagram](https://www.instagram.com/falyara_) · [Email](mailto:fulcalfuraidah@gmail.com)
