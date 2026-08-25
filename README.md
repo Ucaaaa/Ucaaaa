@@ -1,4 +1,4 @@
-# Hi, I'm Uca 👋
+# Hiii, I'm Fulca Liya Furaidah 👋
 
 🎓 Information Technology Student at Universitas Negeri Yogyakarta<br>
 📊 Currently exploring Data Analytics & Business Intelligence<br>
