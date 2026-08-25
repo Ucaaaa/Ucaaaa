@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%">
+</p>
+
 # Hiii, I'm Fulca Liya Furaidah 👋
 
 🎓 Information Technology Student at Universitas Negeri Yogyakarta<br>
