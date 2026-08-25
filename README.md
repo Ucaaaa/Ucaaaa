@@ -1,7 +1,7 @@
 # Hi, I'm Uca 👋
 
-🎓 Information Technology Student at Universitas Negeri Yogyakarta
-📊 Currently exploring Data Analytics & Business Intelligence
+🎓 Information Technology Student at Universitas Negeri Yogyakarta<br>
+📊 Currently exploring Data Analytics & Business Intelligence<br>
 💻 Interested in turning data into meaningful insights and useful products
 
 ### What I'm Up To
